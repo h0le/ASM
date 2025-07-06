@@ -1,2 +1,43 @@
 # ASM
 ASM reading
+
+### _Архитектура машины_:
+
+[Justice **How Computers Really Work**: A Hands-On Guide to the Inner Workings of the Machine](https://web.archive.org/web/20231221155031/https://libgen.pm/edition.php?id=138675097) .[_перевод_](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=142190746)  
+[Bryant, O’Hallaron **Computer Systems A Programmer’s Perspective**](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=138045078) .[_перевод_](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=142191301)  
+[Patt, Patel **Introduction to Computing Systems**: From Bits & Gates to C/C++ & Beyond](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=18199F1A2260CD8E84C36A106043A2DA)  
+[Hsu **Computer Architecture:** Software Aspects, Coding, and Hardware](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=9CB8D0256983D03CF986CC6F2FAA7D3B)  
+[Nisan, Schocken **The Elements of Computing Systems**: Building a Modern Computer from First Principles](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=33E8664A26F52769692C070A31A96CCE)  
+[Lewin, Noaks **Theory and Design of Digital Computer Systems**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=8CA3C73A71501B06C3FA8CA49CCFB297)  
+_by_ Hennessy, Patterson:  
+…[**Computer Architecture**: A Quantitative Approach](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=138633374)  
+…[**Computer Organization and Design**](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=138549861) .[_перевод_](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=137177903) .[ARM](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=138642431) .[MIPS](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=142212801) .[RISC-V](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=141531087)  
+[Tanenbaum, Austin **Structured Computer Organization**](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=136692940) .[_перевод_](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=137351506)  
+[Stokes **Inside the Machine**: An Illustrated Introduction to Microprocessors and Computer Architecture](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=38D6140547F20C2C53B3BBCB0EDE655C)  
+[Stallings **Computer Organization and Architecture**: Designing for Performance](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=D9EF69FEFA54257F9A3135E88DBD8B46)  
+[Null, Lobur **The Essentials of Computer Organization and Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=43117F89EF54D25B147D1916C8520A1C)  
+[Clements **Computer Organization & Architecture**: Themes and Variations](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=866BA44918DE1965CDC776C75E05B296)  
+[Clements **Principles of Computer Hardware**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=DFE6EE5839E43DBE1D3CD04B8E9EC114)  
+[Comer **Essentials of Computer Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=F1BCE82424C0AD52E029264943862FFF)  
+[Mano **Computer System Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=0720830AF6694180E249BD92D3B963E8)  
+[Elahi **Computer Systems**: Digital Design, Fundamentals of Computer Architecture and Assembly Language](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=0143B6653E7D250802607C62DC476B29)  
+[Murdocca, Heuring **Principles of Computer Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=7037272BD241558AF9EBEB7763944781)  
+[Dumas **Computer Architecture**: Fundamentals and Principles of Computer Design](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=F67CD09265D1C33C1F66B5D4A92D8E40)  
+[Englander **The Architecture of Computer Hardware, Systems Software, & Networking**: An Information Technology Approach](https://web.archive.org/web/20231221155031/https://libgen.gs/edition.php?id=138007756)  
+[Govindarajalu **Computer Architecture and Organization**: Design Principles and Applications](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=D0181335120E84C8D16385D1B0148E74)  
+[Chakraborty **Computer Organisation and Architecture**: Evolutionary Concepts, Principles, and Designs](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=23AD129FE22FFB532C55845F6065A923)  
+[Shiva **Computer Organization, Design, and Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=F977DBD88878CE0D9961DB1E0471CAC3)  
+[Ledin **Modern Computer Architecture and Organization**: Learn x86, ARM, and RISC-V Architectures and the Design of Smartphones, PCs, and Cloud Servers](https://web.archive.org/web/20231221155031/https://libgen.pm/edition.php?id=141780959)  
+[Bindal **Fundamentals of Computer Architecture and Design**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=02891BB36F9DE7630021823B9617FB0A)  
+_by_ Sarangi:  
+…[**Computer Organisation and Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=18F977E6C7BAD3665CC63189A5D486B4)  
+…[**Basic Computer Architecture**](https://web.archive.org/web/20231221155031/https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) .[**PDF**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=E2791484BCCD342185221B26FE3367D0)  
+…[**Advanced Computer Architecture**](https://web.archive.org/web/20231221155031/https://www.cse.iitd.ac.in/~srsarangi/advbook/index.html)  
+[Mueller, Paul **Computer Architecture**: Complexity and Correctness](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=ABCEAB7D3ECCF94032490E6D5099A5D8)  
+[Yadin **Computer Systems Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=BD1DFB9EAB73756AE84D2DBEB628EF8D)  
+[Blanchet, Dupouy **Computer Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=E8730C3B8C2223E1E98D616B329E2768)  
+[Tarnoff **Computer Organization and Design Fundanentals**. Examining Computer Hardware from the Bottom to the Top](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=9AE6356A95587F2142F65478135E0501)  
+[Plantz **Introduction to Computer Organization**: An Under the Hood Look at Hardware and x86-64 Assembly](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=BBC24297E4A2BF4FC2CF9D1236D0806A)  
+[Ghosh **Computer Organization**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=56250237BAF92E46649451944F20B642)  
+[Abd-El-Barr, El-Rewini **Fundamentals of Computer Organization and Architecture**](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=32BE0D636844C7B168AC1889538A7456)  
+[Bell, Gordon **Computer Structures**: Readings and Examples](https://web.archive.org/web/20231221155031/https://archive.org/details/computerstructures00bell/mode/2up)
