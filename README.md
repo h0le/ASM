@@ -797,3 +797,9 @@ HTML-архив [VXLAB.info](https://web.archive.org/web/20231221155031/https://
 [int10h.org](https://web.archive.org/web/20231221155031/https://int10h.org/)  
 [Magic debug values](https://web.archive.org/web/20231221155031/https://en.wikipedia.org/wiki/Magic_number_(programming)#Magic_debug_values)  
 Russ **The Secret Guide to Computers** .[1ED](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=CBC0B3661418A7122DFE64F0EDD7F691) .[25ED](https://web.archive.org/web/20231221155031/https://archive.org/details/secretguidetocom00walt) .[33ED](https://web.archive.org/web/20231221155031/http://libgen.is/book/index.php?md5=25C5882BB61A9F22895F8EA307217E3C)
+
+
+
+ASM86 Language Reference Manual https://libgen.vg/edition.php?id=208465953
+IBM Personal Computer Technical Reference https://libgen.vg/edition.php?id=208465930
+https://www.minuszerodegrees.net/
