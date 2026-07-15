@@ -465,6 +465,7 @@ Windows source code leaks: [NT4.0](https://web.archive.org/web/20231221155031/ht
 [**LordPE**](https://web.archive.org/web/20231221155031/https://github.com/AsiaGenius/ring-0/tree/master/Tools/LordPE%201.41%20Deluxe%20Sinx) утилита для редактриования PE-файлов  
 [**PE Tools**](https://web.archive.org/web/20231221155031/https://github.com/petoolse/petools) утилита для изучения PE-файлов  
 [**EXE Explorer**](https://web.archive.org/web/20231221155031/http://www.mitec.cz/exe.html)  
+CFF Explorer https://github.com/CFF-Explorer/
   
 [**WinAPIOverride**](https://web.archive.org/web/20231221155031/http://jacquelin.potier.free.fr/winapioverride32/) WinAPI-монитор  
 [**CBT Hooker**](https://web.archive.org/web/20231221155031/https://katahiromz.web.fc2.com/cbthooker/en/) WinAPI-хукер  
