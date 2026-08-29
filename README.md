@@ -459,6 +459,7 @@ Windows source code leaks: [NT4.0](https://web.archive.org/web/20231221155031/ht
 [**WinSpy**](https://web.archive.org/web/20231221155031/https://sourceforge.net/projects/winspyex/) монитор свойств окон  
 [**API Monitor**](https://web.archive.org/web/20231221155031/http://www.rohitab.com/apimonitor) монитор WinAPI-вызовов  
 [**Control Spy**](https://web.archive.org/web/20231221155031/https://docs.microsoft.com/en-us/windows/win32/controls/control-spy) Common Controls explorer  
+WinAPI Search https://dennisbabkin.com/winapisearch/
   
 [**Dependencies**](https://web.archive.org/web/20231221155031/https://github.com/lucasg/Dependencies) актуальная замена [**Dependency Walker**](https://web.archive.org/web/20231221155031/https://www.dependencywalker.com/) (рекурсивный сканер зависимостей PE-файлов)  
   
